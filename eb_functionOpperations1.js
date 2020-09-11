@@ -1,5 +1,5 @@
 //User defined function
-//This is calle a procedure as there is no return statement
+//This is called a procedure as there is no return statement
 function calculator(num1, num2, opp="add"){
 	let result=0;
 	if(opp=="add"){
