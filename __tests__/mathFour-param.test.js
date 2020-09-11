@@ -1,5 +1,5 @@
 
-// run each test with different data sets
+// run each test multiple times with different data sets
 const { add, mul, sub, div } = require('../mathFour')
 
 test.each([[1, 1, 2], [-1, 2, 1], [2, 1, 3]])(
