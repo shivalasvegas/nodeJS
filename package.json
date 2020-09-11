@@ -1,0 +1,23 @@
+{
+  "name": "nodeJSRepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eb_functionOpperations1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivalasvegas/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivalasvegas/nodeJS/issues"
+  },
+  "homepage": "https://github.com/shivalasvegas/nodeJS#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
