@@ -22,7 +22,7 @@ function calculator(num1, num2, opp="add"){
 	console.log("Result of ", opp, " is: ",result.toFixed(2));	// 2 d.p.	
 }
 
-calculator(89, 90);
+//calculator(89, 90);
 calculator(56, 45, "subtract");
 calculator(num2=20, num1=10) // named parameter passing
 

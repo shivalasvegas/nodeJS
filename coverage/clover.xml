@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1600075174271" clover="3.2.0">
-  <project timestamp="1600075174272" name="All files">
-    <metrics statements="26" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="13" coveredmethods="13" elements="39" coveredelements="39" complexity="0" loc="26" ncloc="26" packages="1" files="3" classes="3"/>
+<coverage generated="1600076583376" clover="3.2.0">
+  <project timestamp="1600076583377" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="14" elements="44" coveredelements="44" complexity="0" loc="30" ncloc="30" packages="1" files="4" classes="4"/>
     <file name="mathFour.js" path="C:\Users\shiva\Documents\AA_PROJECTS\AA_MERN\nodeJS\nodeJSRepository\mathFour.js">
       <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="1" count="2" type="stmt"/>
@@ -36,6 +36,13 @@
       <line num="6" count="6" type="stmt"/>
       <line num="9" count="3" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="users.js" path="C:\Users\shiva\Documents\AA_PROJECTS\AA_MERN\nodeJS\nodeJSRepository\users.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
