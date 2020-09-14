@@ -11,6 +11,7 @@ function longestWord(message){
 		}	
 	}
 	console.log(lWord);
+	return lWord;
 }
 
-longestWord("I am going to London, and will be back tomorrow");
+//longestWord("I am going to London, and will be back tomorrow");

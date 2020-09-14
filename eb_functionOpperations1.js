@@ -19,17 +19,18 @@ function calculator(num1, num2, opp="add"){
 	}
 
 
-	console.log("Result of ", opp, " is: ",result.toFixed(2));	// 2 d.p.	
+	console.log("Result of ", opp, " is: ",result.toFixed(2));	// 2 d.p.
+	return result;	
 }
 
 //calculator(89, 90);
-calculator(56, 45, "subtract");
-calculator(num2=20, num1=10) // named parameter passing
+//calculator(56, 45, "subtract");
+//calculator(num2=20, num1=10) // named parameter passing
 
-calculator(89, 90, "divide");
-calculator(34, 65, "multiply");
+//calculator(89, 90, "divide");
+//calculator(34, 65, "multiply");
 
-// creates an argument structure and store all the values in the fucntion call
+// creates an argument structure and store all the values in the function call
 function add(a,b){
 	let result=0;
 	console.log(arguments) // predefined variable
@@ -102,3 +103,5 @@ function sortFirstThree(){
 }
 
 sortFirstThree(4, 4, 4, 2, 1, 6, 6,3);
+
+module.exports = {calculator};
