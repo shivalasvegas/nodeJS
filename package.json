@@ -19,5 +19,9 @@
   "homepage": "https://github.com/shivalasvegas/nodeJS#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "json-server": "^0.16.1"
   }
 }
