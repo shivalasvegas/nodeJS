@@ -7,3 +7,5 @@ class Users {
         return res;
       }
 }
+
+module.exports = Users;
