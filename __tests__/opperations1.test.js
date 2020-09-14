@@ -1,7 +1,7 @@
 const { calculator } = require('../eb_functionOpperations1');
 
     let opp = "";
-  
+
 test('2 + 3 = 5', () => {
     opp = "add";
   expect(calculator(2, 3, opp)).toBe(5);

@@ -14,4 +14,6 @@ function longestWord(message){
 	return lWord;
 }
 
+module.exports = {longestWord};
+
 //longestWord("I am going to London, and will be back tomorrow");
